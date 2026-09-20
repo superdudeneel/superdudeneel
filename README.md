@@ -12,7 +12,7 @@ Pre-Final Year Student at IIT Roorkee · AI/ML Enthusiast · Builder
   <a href="https://github.com/superdudeneel">
     <img src="https://img.shields.io/badge/GitHub-superdudeneel-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/neelsane">
     <img src="https://img.shields.io/badge/LinkedIn-Neel%20Sane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
